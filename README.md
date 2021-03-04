@@ -37,4 +37,6 @@ The online, proctored, performance-based test consists of a set of performance-b
 
 ### Bookmarks
 
-A set of bookmarks is added to this repository. These can be found at **documents** -> **[bookmarks.html](/documents/bookmarks.html)**
+A set of bookmarks is added to this repository. These can be found at:
+
+- **documents** -> **[bookmarks.html](/documents/bookmarks.html)**
