@@ -34,3 +34,7 @@ The online, proctored, performance-based test consists of a set of performance-b
   `kubectl get <resource> --export=true -o yaml`
 - Ensure you know what namespaces means and how to use it with `kubectl` commands.
 - Don’t spend too much time on one question. Do questions with a lower weight (e.g. between 2% and 4%) later.
+
+### Bookmarks
+
+A set of bookmarks is added to this repository. These can be found at **documents** -> **bookmarks.html**
